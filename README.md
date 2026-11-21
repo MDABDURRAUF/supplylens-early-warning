@@ -3,6 +3,8 @@
 **A supply chain early-warning system: it watches daily signals from suppliers, ports, regions and commodity
 prices, and warns while a problem is still building.**
 
+**[Try the live dashboard](https://supplylens-early-warning.streamlit.app)** — runs in your browser on simulated data, nothing to install.
+
 Every day, for every supplier, port, region and commodity, it gives:
 
 1. **A risk index from 0 to 100** with a level (Watch, Warning or Critical), built from how far each signal has
