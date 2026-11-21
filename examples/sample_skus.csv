@@ -1,0 +1,192 @@
+sku,entity,annual_spend_usd,description
+SKU-0001,SUP-01,165400.0,wire harnesses item 0001
+SKU-0002,SUP-01,458800.0,wire harnesses item 0002
+SKU-0024,SUP-01,14500.0,wire harnesses item 0024
+SKU-0133,SUP-01,44700.0,wire harnesses item 0133
+SKU-0003,SUP-02,207200.0,resin compounds item 0003
+SKU-0004,SUP-02,43900.0,resin compounds item 0004
+SKU-0005,SUP-02,91800.0,resin compounds item 0005
+SKU-0006,SUP-02,54700.0,resin compounds item 0006
+SKU-0144,SUP-02,105500.0,resin compounds item 0144
+SKU-0007,SUP-03,213600.0,packaging item 0007
+SKU-0008,SUP-03,86300.0,packaging item 0008
+SKU-0009,SUP-03,16500.0,packaging item 0009
+SKU-0010,SUP-03,85200.0,packaging item 0010
+SKU-0011,SUP-03,695900.0,packaging item 0011
+SKU-0062,SUP-03,90700.0,packaging item 0062
+SKU-0012,SUP-04,593700.0,sensors item 0012
+SKU-0013,SUP-04,153300.0,sensors item 0013
+SKU-0014,SUP-04,324800.0,sensors item 0014
+SKU-0015,SUP-04,95900.0,sensors item 0015
+SKU-0016,SUP-04,19400.0,sensors item 0016
+SKU-0017,SUP-05,983300.0,castings item 0017
+SKU-0018,SUP-05,389300.0,castings item 0018
+SKU-0130,SUP-05,6900.0,castings item 0130
+SKU-0019,SUP-06,178100.0,machined parts item 0019
+SKU-0020,SUP-06,53000.0,machined parts item 0020
+SKU-0021,SUP-06,50500.0,machined parts item 0021
+SKU-0022,SUP-06,249000.0,machined parts item 0022
+SKU-0023,SUP-06,494800.0,machined parts item 0023
+SKU-0118,SUP-06,44700.0,machined parts item 0118
+SKU-0024,SUP-07,38000.0,wire harnesses item 0024
+SKU-0025,SUP-07,284300.0,wire harnesses item 0025
+SKU-0026,SUP-07,170500.0,wire harnesses item 0026
+SKU-0027,SUP-07,372200.0,wire harnesses item 0027
+SKU-0028,SUP-08,50800.0,injection moldings item 0028
+SKU-0029,SUP-08,89800.0,injection moldings item 0029
+SKU-0030,SUP-08,114400.0,injection moldings item 0030
+SKU-0031,SUP-08,104200.0,injection moldings item 0031
+SKU-0032,SUP-08,77000.0,injection moldings item 0032
+SKU-0057,SUP-08,156900.0,injection moldings item 0057
+SKU-0143,SUP-08,134500.0,injection moldings item 0143
+SKU-0033,SUP-09,403600.0,fasteners item 0033
+SKU-0034,SUP-09,51300.0,fasteners item 0034
+SKU-0035,SUP-09,128900.0,fasteners item 0035
+SKU-0036,SUP-09,652900.0,fasteners item 0036
+SKU-0037,SUP-10,208300.0,fasteners item 0037
+SKU-0038,SUP-10,79300.0,fasteners item 0038
+SKU-0039,SUP-10,112000.0,fasteners item 0039
+SKU-0040,SUP-10,552900.0,fasteners item 0040
+SKU-0041,SUP-11,512400.0,sensors item 0041
+SKU-0042,SUP-11,109900.0,sensors item 0042
+SKU-0043,SUP-11,61400.0,sensors item 0043
+SKU-0044,SUP-11,80800.0,sensors item 0044
+SKU-0070,SUP-11,954700.0,sensors item 0070
+SKU-0111,SUP-11,75500.0,sensors item 0111
+SKU-0045,SUP-12,95200.0,stampings item 0045
+SKU-0046,SUP-12,110500.0,stampings item 0046
+SKU-0047,SUP-12,118500.0,stampings item 0047
+SKU-0077,SUP-12,85600.0,stampings item 0077
+SKU-0121,SUP-12,119700.0,stampings item 0121
+SKU-0048,SUP-13,83600.0,circuit boards item 0048
+SKU-0049,SUP-13,498200.0,circuit boards item 0049
+SKU-0050,SUP-13,132200.0,circuit boards item 0050
+SKU-0051,SUP-13,52100.0,circuit boards item 0051
+SKU-0140,SUP-13,18000.0,circuit boards item 0140
+SKU-0052,SUP-14,380500.0,wire harnesses item 0052
+SKU-0053,SUP-14,128100.0,wire harnesses item 0053
+SKU-0054,SUP-14,336000.0,wire harnesses item 0054
+SKU-0055,SUP-15,233600.0,injection moldings item 0055
+SKU-0056,SUP-15,182100.0,injection moldings item 0056
+SKU-0057,SUP-15,235700.0,injection moldings item 0057
+SKU-0058,SUP-16,211100.0,packaging item 0058
+SKU-0059,SUP-16,626300.0,packaging item 0059
+SKU-0060,SUP-16,25300.0,packaging item 0060
+SKU-0061,SUP-16,313000.0,packaging item 0061
+SKU-0062,SUP-16,105800.0,packaging item 0062
+SKU-0058,SUP-17,152600.0,packaging item 0058
+SKU-0060,SUP-17,19600.0,packaging item 0060
+SKU-0061,SUP-17,88400.0,packaging item 0061
+SKU-0063,SUP-17,69900.0,packaging item 0063
+SKU-0064,SUP-17,89400.0,packaging item 0064
+SKU-0065,SUP-17,240400.0,packaging item 0065
+SKU-0066,SUP-17,52800.0,packaging item 0066
+SKU-0067,SUP-17,87100.0,packaging item 0067
+SKU-0016,SUP-18,5900.0,sensors item 0016
+SKU-0068,SUP-18,204100.0,sensors item 0068
+SKU-0069,SUP-18,99300.0,sensors item 0069
+SKU-0070,SUP-18,1810000.0,sensors item 0070
+SKU-0071,SUP-18,91900.0,sensors item 0071
+SKU-0051,SUP-19,25400.0,circuit boards item 0051
+SKU-0072,SUP-19,91100.0,circuit boards item 0072
+SKU-0073,SUP-19,302800.0,circuit boards item 0073
+SKU-0074,SUP-19,94300.0,circuit boards item 0074
+SKU-0075,SUP-19,263300.0,circuit boards item 0075
+SKU-0076,SUP-19,283400.0,circuit boards item 0076
+SKU-0077,SUP-20,153200.0,stampings item 0077
+SKU-0078,SUP-20,1430100.0,stampings item 0078
+SKU-0079,SUP-20,224600.0,stampings item 0079
+SKU-0123,SUP-20,32600.0,stampings item 0123
+SKU-0080,SUP-21,564000.0,injection moldings item 0080
+SKU-0081,SUP-21,137700.0,injection moldings item 0081
+SKU-0082,SUP-21,63400.0,injection moldings item 0082
+SKU-0083,SUP-22,449900.0,sensors item 0083
+SKU-0084,SUP-22,185500.0,sensors item 0084
+SKU-0085,SUP-22,399000.0,sensors item 0085
+SKU-0086,SUP-22,306100.0,sensors item 0086
+SKU-0012,SUP-23,202200.0,sensors item 0012
+SKU-0044,SUP-23,80500.0,sensors item 0044
+SKU-0087,SUP-23,188700.0,sensors item 0087
+SKU-0088,SUP-23,433600.0,sensors item 0088
+SKU-0089,SUP-23,55300.0,sensors item 0089
+SKU-0035,SUP-24,43800.0,fasteners item 0035
+SKU-0038,SUP-24,38500.0,fasteners item 0038
+SKU-0040,SUP-24,152500.0,fasteners item 0040
+SKU-0090,SUP-24,332000.0,fasteners item 0090
+SKU-0091,SUP-24,68500.0,fasteners item 0091
+SKU-0092,SUP-24,170500.0,fasteners item 0092
+SKU-0093,SUP-24,81300.0,fasteners item 0093
+SKU-0098,SUP-24,67000.0,fasteners item 0098
+SKU-0094,SUP-25,207600.0,injection moldings item 0094
+SKU-0095,SUP-25,174400.0,injection moldings item 0095
+SKU-0096,SUP-25,155100.0,injection moldings item 0096
+SKU-0037,SUP-26,134800.0,fasteners item 0037
+SKU-0093,SUP-26,24500.0,fasteners item 0093
+SKU-0097,SUP-26,172100.0,fasteners item 0097
+SKU-0098,SUP-26,158700.0,fasteners item 0098
+SKU-0099,SUP-26,103400.0,fasteners item 0099
+SKU-0100,SUP-27,306100.0,wire harnesses item 0100
+SKU-0101,SUP-27,145700.0,wire harnesses item 0101
+SKU-0102,SUP-28,292800.0,sensors item 0102
+SKU-0103,SUP-28,81300.0,sensors item 0103
+SKU-0104,SUP-28,166300.0,sensors item 0104
+SKU-0105,SUP-28,1094300.0,sensors item 0105
+SKU-0106,SUP-28,143700.0,sensors item 0106
+SKU-0106,SUP-29,42700.0,sensors item 0106
+SKU-0107,SUP-29,370300.0,sensors item 0107
+SKU-0108,SUP-29,567000.0,sensors item 0108
+SKU-0109,SUP-29,159700.0,sensors item 0109
+SKU-0110,SUP-29,147100.0,sensors item 0110
+SKU-0111,SUP-29,108100.0,sensors item 0111
+SKU-0031,SUP-30,54500.0,injection moldings item 0031
+SKU-0032,SUP-30,24800.0,injection moldings item 0032
+SKU-0082,SUP-30,29300.0,injection moldings item 0082
+SKU-0112,SUP-30,215700.0,injection moldings item 0112
+SKU-0113,SUP-30,103600.0,injection moldings item 0113
+SKU-0114,SUP-30,60800.0,injection moldings item 0114
+SKU-0115,SUP-30,95200.0,injection moldings item 0115
+SKU-0116,SUP-30,375000.0,injection moldings item 0116
+SKU-0142,SUP-30,34900.0,injection moldings item 0142
+SKU-0020,SUP-31,48300.0,machined parts item 0020
+SKU-0117,SUP-31,133500.0,machined parts item 0117
+SKU-0118,SUP-31,144000.0,machined parts item 0118
+SKU-0119,SUP-31,320500.0,machined parts item 0119
+SKU-0120,SUP-31,305100.0,machined parts item 0120
+SKU-0045,SUP-32,34600.0,stampings item 0045
+SKU-0121,SUP-32,199900.0,stampings item 0121
+SKU-0122,SUP-32,1291200.0,stampings item 0122
+SKU-0123,SUP-32,58200.0,stampings item 0123
+SKU-0124,SUP-32,926300.0,stampings item 0124
+SKU-0125,SUP-32,239100.0,stampings item 0125
+SKU-0126,SUP-33,84200.0,wire harnesses item 0126
+SKU-0127,SUP-33,232100.0,wire harnesses item 0127
+SKU-0128,SUP-33,177700.0,wire harnesses item 0128
+SKU-0129,SUP-33,450300.0,wire harnesses item 0129
+SKU-0130,SUP-34,19500.0,castings item 0130
+SKU-0131,SUP-34,194600.0,castings item 0131
+SKU-0132,SUP-34,80500.0,castings item 0132
+SKU-0025,SUP-35,179000.0,wire harnesses item 0025
+SKU-0133,SUP-35,80000.0,wire harnesses item 0133
+SKU-0134,SUP-35,40400.0,wire harnesses item 0134
+SKU-0135,SUP-36,472600.0,sensors item 0135
+SKU-0136,SUP-36,165500.0,sensors item 0136
+SKU-0137,SUP-36,573800.0,sensors item 0137
+SKU-0138,SUP-36,255500.0,sensors item 0138
+SKU-0072,SUP-37,56500.0,circuit boards item 0072
+SKU-0076,SUP-37,82400.0,circuit boards item 0076
+SKU-0139,SUP-37,67800.0,circuit boards item 0139
+SKU-0140,SUP-37,42000.0,circuit boards item 0140
+SKU-0141,SUP-37,69800.0,circuit boards item 0141
+SKU-0081,SUP-38,130600.0,injection moldings item 0081
+SKU-0094,SUP-38,77200.0,injection moldings item 0094
+SKU-0142,SUP-38,50400.0,injection moldings item 0142
+SKU-0143,SUP-38,491700.0,injection moldings item 0143
+SKU-0005,SUP-39,82900.0,resin compounds item 0005
+SKU-0144,SUP-39,133700.0,resin compounds item 0144
+SKU-0145,SUP-39,578100.0,resin compounds item 0145
+SKU-0146,SUP-39,624500.0,resin compounds item 0146
+SKU-0147,SUP-39,156600.0,resin compounds item 0147
+SKU-0006,SUP-40,54600.0,resin compounds item 0006
+SKU-0148,SUP-40,253200.0,resin compounds item 0148
+SKU-0149,SUP-40,308200.0,resin compounds item 0149
+SKU-0150,SUP-40,110800.0,resin compounds item 0150

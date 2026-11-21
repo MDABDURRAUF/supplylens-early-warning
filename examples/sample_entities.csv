@@ -1,0 +1,53 @@
+entity,type,name,state,region,port,commodity,category
+COM-ELEC,commodity,Electronic components price index,,,,,
+COM-RESIN,commodity,Resin price index,,,,,
+COM-STEEL,commodity,Steel price index,,,,,
+PORT-HOU,port,Houston gateway,TX,South,,,
+PORT-LAX,port,Los Angeles gateway,CA,West,,,
+PORT-NWK,port,Newark gateway,NJ,Northeast,,,
+PORT-SAV,port,Savannah gateway,GA,South,,,
+PORT-SEA,port,Seattle gateway,WA,West,,,
+REG-MIDWEST,region,Midwest weather,,Midwest,,,
+REG-NORTHEAST,region,Northeast weather,,Northeast,,,
+REG-SOUTH,region,South weather,,South,,,
+REG-WEST,region,West weather,,West,,,
+SUP-01,supplier,"Supplier 01 (wire harnesses, OH)",OH,Midwest,PORT-HOU,COM-ELEC,wire harnesses
+SUP-02,supplier,"Supplier 02 (resin compounds, TX)",TX,South,PORT-SAV,COM-RESIN,resin compounds
+SUP-03,supplier,"Supplier 03 (packaging, PA)",PA,Northeast,PORT-SAV,COM-RESIN,packaging
+SUP-04,supplier,"Supplier 04 (sensors, CA)",CA,West,PORT-LAX,COM-ELEC,sensors
+SUP-05,supplier,"Supplier 05 (castings, MI)",MI,Midwest,PORT-LAX,COM-STEEL,castings
+SUP-06,supplier,"Supplier 06 (machined parts, GA)",GA,South,PORT-SAV,COM-STEEL,machined parts
+SUP-07,supplier,"Supplier 07 (wire harnesses, NY)",NY,Northeast,PORT-NWK,COM-ELEC,wire harnesses
+SUP-08,supplier,"Supplier 08 (injection moldings, WA)",WA,West,PORT-SEA,COM-RESIN,injection moldings
+SUP-09,supplier,"Supplier 09 (fasteners, IL)",IL,Midwest,PORT-SAV,COM-STEEL,fasteners
+SUP-10,supplier,"Supplier 10 (fasteners, NC)",NC,South,PORT-HOU,COM-STEEL,fasteners
+SUP-11,supplier,"Supplier 11 (sensors, NJ)",NJ,Northeast,PORT-NWK,COM-ELEC,sensors
+SUP-12,supplier,"Supplier 12 (stampings, AZ)",AZ,West,PORT-LAX,COM-STEEL,stampings
+SUP-13,supplier,"Supplier 13 (circuit boards, IN)",IN,Midwest,PORT-LAX,COM-ELEC,circuit boards
+SUP-14,supplier,"Supplier 14 (wire harnesses, TN)",TN,South,PORT-HOU,COM-ELEC,wire harnesses
+SUP-15,supplier,"Supplier 15 (injection moldings, MA)",MA,Northeast,PORT-NWK,COM-RESIN,injection moldings
+SUP-16,supplier,"Supplier 16 (packaging, OR)",OR,West,PORT-SEA,COM-RESIN,packaging
+SUP-17,supplier,"Supplier 17 (packaging, WI)",WI,Midwest,PORT-SAV,COM-RESIN,packaging
+SUP-18,supplier,"Supplier 18 (sensors, SC)",SC,South,PORT-SAV,COM-ELEC,sensors
+SUP-19,supplier,"Supplier 19 (circuit boards, CT)",CT,Northeast,PORT-NWK,COM-ELEC,circuit boards
+SUP-20,supplier,"Supplier 20 (stampings, UT)",UT,West,PORT-SEA,COM-STEEL,stampings
+SUP-21,supplier,"Supplier 21 (injection moldings, MN)",MN,Midwest,PORT-NWK,COM-RESIN,injection moldings
+SUP-22,supplier,"Supplier 22 (sensors, AL)",AL,South,PORT-HOU,COM-ELEC,sensors
+SUP-23,supplier,"Supplier 23 (sensors, PA)",PA,Northeast,PORT-NWK,COM-ELEC,sensors
+SUP-24,supplier,"Supplier 24 (fasteners, CO)",CO,West,PORT-LAX,COM-STEEL,fasteners
+SUP-25,supplier,"Supplier 25 (injection moldings, MO)",MO,Midwest,PORT-NWK,COM-RESIN,injection moldings
+SUP-26,supplier,"Supplier 26 (fasteners, KY)",KY,South,PORT-SAV,COM-STEEL,fasteners
+SUP-27,supplier,"Supplier 27 (wire harnesses, NY)",NY,Northeast,PORT-NWK,COM-ELEC,wire harnesses
+SUP-28,supplier,"Supplier 28 (sensors, CA)",CA,West,PORT-SEA,COM-ELEC,sensors
+SUP-29,supplier,"Supplier 29 (sensors, OH)",OH,Midwest,PORT-HOU,COM-ELEC,sensors
+SUP-30,supplier,"Supplier 30 (injection moldings, TX)",TX,South,PORT-SAV,COM-RESIN,injection moldings
+SUP-31,supplier,"Supplier 31 (machined parts, NJ)",NJ,Northeast,PORT-NWK,COM-STEEL,machined parts
+SUP-32,supplier,"Supplier 32 (stampings, WA)",WA,West,PORT-LAX,COM-STEEL,stampings
+SUP-33,supplier,"Supplier 33 (wire harnesses, MI)",MI,Midwest,PORT-NWK,COM-ELEC,wire harnesses
+SUP-34,supplier,"Supplier 34 (castings, GA)",GA,South,PORT-HOU,COM-STEEL,castings
+SUP-35,supplier,"Supplier 35 (wire harnesses, MA)",MA,Northeast,PORT-SAV,COM-ELEC,wire harnesses
+SUP-36,supplier,"Supplier 36 (sensors, AZ)",AZ,West,PORT-LAX,COM-ELEC,sensors
+SUP-37,supplier,"Supplier 37 (circuit boards, IL)",IL,Midwest,PORT-LAX,COM-ELEC,circuit boards
+SUP-38,supplier,"Supplier 38 (injection moldings, NC)",NC,South,PORT-HOU,COM-RESIN,injection moldings
+SUP-39,supplier,"Supplier 39 (resin compounds, CT)",CT,Northeast,PORT-SAV,COM-RESIN,resin compounds
+SUP-40,supplier,"Supplier 40 (resin compounds, OR)",OR,West,PORT-LAX,COM-RESIN,resin compounds
